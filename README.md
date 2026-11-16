@@ -50,7 +50,6 @@ A1-LiangSheng/
 │   ├── AppointmentManager.java     the appointment collection (Part 5)
 │   ├── BookingResult.java          success/warning message returned by operations
 │   └── Checks.java                 shared argument validation (avoids repetition)
-├── docs/VIDEO_SCRIPT.md            ≤ 5 minute video script (four OOP pillars)
 ├── README.md
 └── .gitignore
 ```
